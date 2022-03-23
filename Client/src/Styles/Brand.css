@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&family=Lobster&family=Pacifico&display=swap');
+
+.brand {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    color: black;
+}
+
+@media (max-width: 400px) {
+    .brand {
+        margin: -5px;
+    }
+}
